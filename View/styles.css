@@ -1,0 +1,84 @@
+
+header {
+    background-color: rgb(8,157,73);
+}
+
+fieldset {
+    background-color: rgb(8,157,73);
+}
+
+form {
+    align-items: center;
+    align-content: center;
+    display: contents;
+}
+
+body {
+    margin: 0px 0px;
+    padding:0px;
+    text-align:center;
+}
+
+label {
+    font-size: x-large;
+}
+body {
+    display: grid;
+    align-content: stretch;
+}
+.img {
+    background-image: url("../Media/a.png");
+    /* Control the height of the image */
+    min-height: 720px;
+    min-width: 300px;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+    margin-bottom: -50px;
+    margin-top: -20px;
+
+    ;
+}
+h2 {
+    font-size: 40px;
+}
+
+form {
+    display: contents;
+    background-color: forestgreen;
+    size: landscape;
+    /* align-items: stretch; */
+}
+.login_container {
+    font-size: small;
+}
+footer {
+    /* margin: unset; */
+    margin-left: -10px;
+    margin-right: -10px;
+}
+.home {
+    font-size: large;
+   
+}
+.sign_up {
+    display: inline-flex;
+}
+input[type="submit"] {
+    background: darkseagreen;
+}
+.view {
+    display: inline-block;
+    background-color:rgb(8,157,73);
+}
+.sadi {
+    background-color: darkseagreen;
+    color: black;
+    font-size: x-large;
+}
+span {
+    color: darkred;
+
+}
